@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-aug22-class.github.io/user-search/static/css/main.263eac71.css",
+    "main.js": "/reactjs-aug22-class.github.io/user-search/static/js/main.c5af6bbc.js",
+    "static/js/787.925e80fc.chunk.js": "/reactjs-aug22-class.github.io/user-search/static/js/787.925e80fc.chunk.js",
+    "index.html": "/reactjs-aug22-class.github.io/user-search/index.html",
+    "main.263eac71.css.map": "/reactjs-aug22-class.github.io/user-search/static/css/main.263eac71.css.map",
+    "main.c5af6bbc.js.map": "/reactjs-aug22-class.github.io/user-search/static/js/main.c5af6bbc.js.map",
+    "787.925e80fc.chunk.js.map": "/reactjs-aug22-class.github.io/user-search/static/js/787.925e80fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.263eac71.css",
+    "static/js/main.c5af6bbc.js"
+  ]
+}
